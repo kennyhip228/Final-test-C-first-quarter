@@ -1,0 +1,15 @@
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\bin\Debug\net7.0\Program.exe
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\bin\Debug\net7.0\Program.deps.json
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\bin\Debug\net7.0\Program.dll
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\bin\Debug\net7.0\Program.pdb
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\obj\Debug\net7.0\Program.csproj.AssemblyReference.cache
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\obj\Debug\net7.0\Program.dll
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\obj\Debug\net7.0\Program.pdb
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Education\Final test C# first quarter\Final-test-C-first-quarter\Program\obj\Debug\net7.0\ref\Program.dll
